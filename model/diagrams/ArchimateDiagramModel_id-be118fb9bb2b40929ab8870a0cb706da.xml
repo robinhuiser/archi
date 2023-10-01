@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-be118fb9bb2b40929ab8870a0cb706da">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-04d82df1e60549e0a4705ee1d11c5e1c"
+      font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
+      textAlignment="1"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="$view{name} for ${property:Org}"/>
+    <bounds
+        x="84"
+        y="48"
+        width="378"
+        height="31"/>
+    <properties
+        key="Org"
+        value="Zafin IO"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-002c798c2e924a90b9188c1abc281a21"
+      textAlignment="1"
+      textPosition="1"
+      borderType="2">
+    <features
+        name="labelExpression"
+        value="Last updated $view{property:LastUpdated} by $view{property:LastUpdatedBy}&#xA;"/>
+    <bounds
+        x="84"
+        y="72"
+        width="378"
+        height="33"/>
+  </children>
+  <properties
+      key="LastUpdated"
+      value="2023-10-01"/>
+  <properties
+      key="LastUpdatedBy"
+      value="Robin Huiser"/>
+</archimate:ArchimateDiagramModel>
