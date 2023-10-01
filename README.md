@@ -1,2 +1,2 @@
 # archi
-Test repo for working with the co-Archi plugin
+Test repo for working with the coArchi plugin
