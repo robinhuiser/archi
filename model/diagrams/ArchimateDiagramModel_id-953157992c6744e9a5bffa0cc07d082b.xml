@@ -8,14 +8,14 @@
       id="id-e0e98ec54df44517970510a5b5f78e2a"
       font="1|Lucida Grande|18.0|1|COCOA|1|LucidaGrande-Bold"
       textAlignment="1"
-      textPosition="1"
+      textPosition="2"
       borderType="2">
     <features
         name="labelExpression"
         value="$view{name} for ${property:Org}"/>
     <bounds
         x="251"
-        y="-7"
+        y="5"
         width="378"
         height="31"/>
     <properties
@@ -26,16 +26,15 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-676e36cb5385484fb3cf1ab48a88be3c"
       textAlignment="1"
-      textPosition="1"
       borderType="2">
     <features
         name="labelExpression"
         value="Last updated $view{property:LastUpdated} by $view{property:LastUpdatedBy}&#xA;"/>
     <bounds
-        x="251"
-        y="17"
+        x="83"
+        y="384"
         width="378"
-        height="33"/>
+        height="32"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
